@@ -1,6 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Martian+Mono:wght@100..800&family=Nerko+One&family=Oleo+Script:wght@400;700&family=Playwrite+CU:wght@100..400&display=swap');
+
 h1{
     color: rgb(23, 126, 23);
+    font-family: "Nerko One", cursive;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 60px;
+    padding-top: 20px;
+    text-align: center; 
 }
 h2{
     color: rgb(25, 194, 37);
+    font-family: "Playwrite CU", cursive;
+    text-align: center; 
+   
 }
+
+p{
+    text-align: center;
+    padding-top: 20px;
+}
+
+h3{
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+body {
+    background-image: url("fundo\ site.jpg");
+    background-position: center;    
+}
+.imagem1 {
+    position: relative; 
+    top: 10px; /* Distância do topo */
+    left: 1000px; /* Distância da esquerda */
+}
+img{
+    border-radius: 10px; ;
+    margin-right:50px;
+    margin-bottom: 20px;
+}
+
